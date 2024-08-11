@@ -12,4 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- 
+
+git config --global user.email "6yelin9@gmail.com"
+git config --global user.name "6yelin9" 
+
 -->
