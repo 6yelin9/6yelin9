@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-### Coding
+## Coding
 - [`C++`](./Note/C++/01_시작하기.md)
 - [`DataBase`]()
 - [`Algorithms`]()
 
-### WEB
+## WEB
 - [`HTML`]()
 - [`CSS`]()
 - [`JS`]()
 - [`React_JS`]()
 
-### Game Dev
+## Game Dev
 - [`Blender`]()
 - [`Unity`]()
