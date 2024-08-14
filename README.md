@@ -1,21 +1,16 @@
 ## Hi there 👋
 
-**6yelin9/6yelin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Coding
+- [`C++`]()
+- [`DataBase`]()
+- [`Algorithms`]()
 
-Here are some ideas to get you started:
+### WEB
+- [`HTML`]()
+- [`CSS`]()
+- [`JS`]()
+- [`React_JS`]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!-- 
-
-git config --global user.email "6yelin9@gmail.com"
-git config --global user.name "6yelin9" 
-
--->
+### Game Dev
+- [`Blender`]()
+- [`Unity`]()
