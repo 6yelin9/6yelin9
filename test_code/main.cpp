@@ -17,7 +17,7 @@ int main()
     a: 10
     b: 20
     [Output]
-    10 + 20 = 30    
+    10 + 20 = 30
     */
 
     return 0;
