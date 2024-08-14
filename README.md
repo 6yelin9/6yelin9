@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Coding
-- [`C++`](./Note/C++/01_시작하기.md)
+- **[`C++`](./Note/C++/01_시작하기.md)**
 - [`DataBase`]()
 - [`Algorithms`]()
 
